@@ -1,0 +1,142 @@
+.principal {
+  flex-wrap: wrap;
+
+  margin-top: 80px;
+
+  border-top: 1px solid #dcdcde;
+
+  padding: 48px 0;
+}
+
+.contato h1 {
+  font-family: "Ibarra Real Nova", serif;
+
+  font-size: 40px;
+  line-height: 42px;
+
+  letter-spacing: -0.357143px;
+
+  color: #33323d;
+
+  padding: 0px 50px 0px 0px;
+  margin-bottom: 50px;
+}
+
+.section--contact {
+  max-width: 635px;
+  display: inline-block;
+}
+
+.section--contact p {
+  font-family: "Public Sans", sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: #33323d;
+
+  mix-blend-mode: normal;
+  opacity: 0.8;
+
+  margin-bottom: 54px;
+}
+
+.social img {
+  margin-left: 0;
+  margin-right: 18px;
+}
+
+label {
+  font-family: "Public Sans", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 30px;
+
+  color: #33323d;
+
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.form {
+  max-width: 635px;
+}
+
+input {
+  font-family: "Public Sans", sans-serif;
+
+  color: black;
+}
+
+.form_nome input {
+  all: unset;
+  width: 635px;
+
+  border: 1px solid #e6e6e7;
+  background: #e6e6e7;
+
+  box-sizing: border-box;
+  padding: 10px 20px 10px 10px;
+
+  mix-blend-mode: normal;
+
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.form_nome input:focus {
+  border: 1px solid #33323d;
+}
+
+.form_email input {
+  all: unset;
+  width: 635px;
+
+  border: 1px solid #e6e6e7;
+  background: #e6e6e7;
+
+  box-sizing: border-box;
+  padding: 10px 20px 10px 10px;
+
+  mix-blend-mode: normal;
+
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.form_email input:focus {
+  border: 1px solid #33323d;
+}
+
+.form-message textarea {
+  all: unset;
+
+  background: #e6e6e7;
+  border: 1px solid #e6e6e7;
+
+  box-sizing: border-box;
+  padding: 10px 20px 10px 10px;
+
+  mix-blend-mode: normal;
+
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.form-message textarea:focus {
+  border: 1px solid #33323d;
+}
+
+.button {
+  background: #203a4c;
+  color: white;
+
+  border: none;
+
+  padding: 17px 48px;
+  margin-top: 24px;
+  margin-bottom: 100px;
+}
+
+.button:hover {
+  background: #5fb4a2;
+}

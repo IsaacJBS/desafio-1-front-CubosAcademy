@@ -1,0 +1,17 @@
+.principal {
+  margin-top: 80px;
+  flex-wrap: wrap;
+}
+
+.img-perfil img {
+  max-width: 540px;
+  max-height: 500px;
+}
+
+.about {
+  display: inline-block;
+}
+
+.about {
+  padding: 110px 0px;
+}
