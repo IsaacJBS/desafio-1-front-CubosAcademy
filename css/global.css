@@ -192,18 +192,18 @@ a.active {
 
 footer {
   background: #33323d;
-  height: 60px;
 }
 
 .logo {
   display: flex;
   align-items: center;
-  margin-top: 15px;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
+
+  padding: 13px 0;
 }
 
 .navigation--footer {
@@ -222,7 +222,6 @@ footer {
 .social {
   display: flex;
   align-items: center;
-  margin-top: 15px;
 }
 
 .social img {
