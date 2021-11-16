@@ -16,4 +16,4 @@ Para acessar o projeto, você pode:
 
 ### O que foi utilizado para realizar este projeto? 🤔
 
-Para a realização do projeto foi utilizado apenas o CSS Flexbox e HTML 5!
+Para a realização do projeto foi utilizado apenas o CSS Flexbox e HTML 5! O site não está responsivo, por isso, caso visualize pelo celular, partes do layout irão quebrar.
